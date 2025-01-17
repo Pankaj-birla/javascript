@@ -1,7 +1,7 @@
 const accountId = 244
 let accountEmail = "pankajbirla@gmail.com"
 var accountPswd = "12345"
-accountCity = "Indore"
+let accountCity = "Indore"
 let accountState;
 
 //  accountId = 355 not allowed to change the constanst 
